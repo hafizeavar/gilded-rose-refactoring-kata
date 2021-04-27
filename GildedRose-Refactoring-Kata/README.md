@@ -1,4 +1,4 @@
-Described as below :
+Described as below :  from : https://github.com/emilybache/GildedRose-Refactoring-Kata
 
 
 # Gilded Rose Refactoring Kata
